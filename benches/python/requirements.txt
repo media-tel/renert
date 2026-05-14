@@ -1,0 +1,4 @@
+yargy==0.16.0
+pymorphy2==0.9.1
+pytest==8.3.5
+pytest-benchmark==5.1.0
